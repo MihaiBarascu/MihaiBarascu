@@ -26,7 +26,7 @@ Multi-tenant platform — one application, multiple independent websites. Built 
 
 ### Astro Templates
 
-Business website templates built with **Astro** and **AstroWind**.
+Business website templates built with **Astro**
 
 | | |
 |---|---|
