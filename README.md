@@ -22,15 +22,3 @@ Multi-tenant platform — one application, multiple independent websites. Built 
 
 [t1](https://t1.multiwebsite.org/) · [t3](https://t3.multiwebsite.org/) · [t4](https://t4.multiwebsite.org/) · [t5](https://t5.multiwebsite.org/) · [t6](https://t6.multiwebsite.org/) · [t7](https://t7.multiwebsite.org/) · [t8](https://t8.multiwebsite.org/) · [t9](https://t9.multiwebsite.org/) · [t10](https://t10.multiwebsite.org/)
 
----
-
-### Astro Templates
-
-Business website templates built with **Astro** and **Astrowind**
-
-| | |
-|---|---|
-| [Leadership & Events](https://leadership-events-astro.pages.dev/) | [SEO Agency](https://agentie-seo-astro.pages.dev/) |
-| [Plumber](https://instalator-astro.pages.dev/) | [Finance](https://finance-business-astro.pages.dev/) |
-| [Real Estate](https://agentie-imobiliare-astro.pages.dev/proprietati/) | [Car Rental](https://inchiriere-masini-astro.pages.dev/) |
-| [Courses](https://cursuri-astro.pages.dev/) | |
