@@ -13,12 +13,3 @@ Software Developer
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-
-## Personal Projects
-
-### MultiWebsite
-
-Multi-tenant platform — one application, multiple independent websites. Built with **Payload CMS** and **Next.js**
-
-[t1](https://t1.multiwebsite.org/) · [t3](https://t3.multiwebsite.org/) · [t4](https://t4.multiwebsite.org/) · [t5](https://t5.multiwebsite.org/) · [t6](https://t6.multiwebsite.org/) · [t7](https://t7.multiwebsite.org/) · [t8](https://t8.multiwebsite.org/) · [t9](https://t9.multiwebsite.org/) · [t10](https://t10.multiwebsite.org/)
-
