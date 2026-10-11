@@ -30,7 +30,9 @@ Currently learning Go.
 - **[Workbine](https://github.com/MihaiBarascu/workbine)**: community platform for practical
   know-how, built with Laravel, React and PostgreSQL. Live at [workbine.com](https://workbine.com)
 - **[admin-starter](https://github.com/MihaiBarascu/admin-starter)**: form backend and admin panel
-  for any website or web app, on Cloudflare Workers
+  for any website or web app, on Cloudflare Workers. It currently runs the forms of three demo
+  sites built with Astro and Pages CMS: [Serenident](https://stomatolog.multiwebsite.org) ·
+  [Alcov Imobiliare](https://imobiliare.multiwebsite.org) · [Fior Roastery](https://cafea.multiwebsite.org)
 
 | Workbine | admin-starter |
 | --- | --- |
