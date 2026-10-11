@@ -1,10 +1,10 @@
 # Mihai Bărăscu
 
-**Full Stack Developer.** I make AI work on an organization's real documents and data,
-and I own the result in production.
+Full Stack Developer at Roweb (Sirma Group). Building web applications and AI features.
 
-Building multi-tenant SaaS end to end at Roweb (Sirma Group) since 2024, mostly NestJS,
-React and PostgreSQL. Currently learning **Go**.
+I like owning things end to end, from database to UI to deployment.
+I use AI every day, in the products I build and in how I build them.
+Currently learning Go.
 
 ## What I work on
 
@@ -18,25 +18,17 @@ React and PostgreSQL. Currently learning **Go**.
 - **E-commerce market analytics**: scans online stores at scale, with an MCP server so the data
   can be queried from the Claude and ChatGPT web apps
 - **Hybrid product search** with an AI shopping assistant
-- **Multi-tenant inspection SaaS** with computer vision: fine-tuned object-detection models
-  running offline
-
-## How I work
-
-AI agents write much of my code. My part is what they can't do: understand the real problem,
-make messy real-world data work, measure whether the system actually works (test sets, A/B runs,
-accuracy audits) and own it in production.
+- **Multi-tenant inspection SaaS**: inspection and reporting workflows, interactive defect
+  marking and review, asynchronous AI integrations
+- **Computer vision**: utility-pole defect detection, with the backend API, frontend and local
+  inference pipeline, fine-tuned object-detection models and tools for reviewing results
 
 ## Side projects
 
-- **[Workbine](https://github.com/MihaiBarascu/workbine)**: community platform where people share
-  methods that actually worked. Laravel, React, PostgreSQL; Docker images through GitHub Actions
-  to staging and approved production. Live at [workbine.com](https://workbine.com)
+- **[Workbine](https://github.com/MihaiBarascu/workbine)**: community platform for practical
+  know-how, built with Laravel, React and PostgreSQL. Live at [workbine.com](https://workbine.com)
 - **[admin-starter](https://github.com/MihaiBarascu/admin-starter)**: form backend and admin panel
-  for static sites on Cloudflare Workers (Hono, D1, Drizzle, Better Auth, Turnstile, Resend).
-  Powers three Astro demo sites: [Serenident](https://stomatolog.multiwebsite.org) ·
-  [Alcov Imobiliare](https://imobiliare.multiwebsite.org) ·
-  [Fior Roastery](https://cafea.multiwebsite.org)
+  for static sites on Cloudflare Workers
 
 | Workbine | admin-starter |
 | --- | --- |
@@ -44,14 +36,13 @@ accuracy audits) and own it in production.
 
 ## Stack
 
-| | |
-| --- | --- |
-| Backend | TypeScript · Node.js · NestJS · Express · Python · PHP / Laravel |
-| Data & queues | PostgreSQL (pgvector, full-text, RLS) · MySQL · MongoDB · Redis · RabbitMQ · BullMQ · AWS SQS |
-| AI | RAG · embeddings & rerankers · LLM evaluation · MCP servers · local models (llama.cpp) · PyTorch · ONNX |
-| Frontend | React · Next.js · Astro · Tailwind |
-| DevOps & testing | Docker · Nginx · GitHub Actions · AWS S3 · Cloudflare Workers · Jest · Vitest · Playwright |
+**Backend:** TypeScript · Node.js · NestJS<br>
+**Frontend:** React · Next.js · Astro · Tailwind · Material UI<br>
+**Data:** PostgreSQL · pgvector · MySQL · MongoDB · Redis<br>
+**AI:** LLMs · RAG · AI Agents · MCP servers · Vector Search · Computer Vision<br>
+**Cloud & DevOps:** Docker · Nginx · S3 · SQS · Cloudflare Workers · GitHub Actions<br>
+**Testing:** Jest · Vitest · Playwright
 
-## Get in touch
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mihai-barascu/) · mihaialex_barascu@yahoo.com
