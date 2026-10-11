@@ -28,7 +28,7 @@ Currently learning Go.
 - **[Workbine](https://github.com/MihaiBarascu/workbine)**: community platform for practical
   know-how, built with Laravel, React and PostgreSQL. Live at [workbine.com](https://workbine.com)
 - **[admin-starter](https://github.com/MihaiBarascu/admin-starter)**: form backend and admin panel
-  for static sites on Cloudflare Workers
+  for any website or app, on Cloudflare Workers
 
 | Workbine | admin-starter |
 | --- | --- |
