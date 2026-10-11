@@ -16,7 +16,7 @@ React and PostgreSQL. Currently learning **Go**.
   with LLMs, linked to source passages, reviewed by users and exported to tour-operator systems
   via APIs
 - **E-commerce market analytics**: scans online stores at scale, with an MCP server so the data
-  can be queried from Claude
+  can be queried from the Claude and ChatGPT web apps
 - **Hybrid product search** with an AI shopping assistant
 - **Multi-tenant inspection SaaS** with computer vision: fine-tuned object-detection models
   running offline
