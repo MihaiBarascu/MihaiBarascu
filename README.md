@@ -6,6 +6,8 @@ I like owning things end to end, from database to UI to deployment.
 I use AI every day, in the products I build and in how I build them.
 Currently learning Go.
 
+[LinkedIn](https://www.linkedin.com/in/mihai-barascu/) · [mihaialex_barascu@yahoo.com](mailto:mihaialex_barascu@yahoo.com)
+
 ## What I work on
 
 - **Data integration platform**: imports supplier catalogs from many sources and formats and
@@ -46,7 +48,3 @@ Currently learning Go.
 **AI:** LLMs · RAG · AI Agents · MCP servers · Vector Search · Computer Vision<br>
 **Cloud & DevOps:** Docker · Nginx · S3 · SQS · Cloudflare Workers · GitHub Actions<br>
 **Testing:** Jest · Vitest · Playwright
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/mihai-barascu/) · mihaialex_barascu@yahoo.com
