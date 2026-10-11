@@ -17,7 +17,9 @@ Currently learning Go.
   via APIs
 - **E-commerce market analytics**: scans online stores at scale, with an MCP server so the data
   can be queried from the Claude and ChatGPT web apps
-- **Hybrid product search** with an AI shopping assistant
+- **Hybrid product search**: vector, full-text and trigram search in PostgreSQL merged into one
+  ranking, with an embeddable chat widget where an AI assistant uses tool calling to search the
+  catalog; a quality check in CI catches search regressions
 - **Multi-tenant inspection SaaS**: inspection and reporting workflows, interactive defect
   marking and review, asynchronous AI integrations
 - **Computer vision**: utility-pole defect detection, with the backend API, frontend and local
