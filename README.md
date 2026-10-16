@@ -13,7 +13,7 @@ Currently learning Go.
 - **Data integration platform**: imports supplier catalogs from many sources and formats and
   exports them to Magento, with the whole workflow configured through the UI
 - **On-premise RAG assistant for a public institution**: answers from official documents with
-  source citations, on local models, measured on evaluation sets
+  source citations, on local models
 - **Hotel document processing**: extracts structured data from hotel factsheets and contracts
   with LLMs, linked to source passages, reviewed by users and exported to tour-operator systems
   via APIs
@@ -21,11 +21,11 @@ Currently learning Go.
   can be queried from the Claude and ChatGPT web apps
 - **Hybrid product search**: vector, full-text and trigram search in PostgreSQL merged into one
   ranking, with an embeddable chat widget where an AI assistant uses tool calling to search the
-  catalog; a quality check in CI catches search regressions
+  catalog
 - **Multi-tenant inspection SaaS**: inspection and reporting workflows, interactive defect
   marking and review, asynchronous AI integrations
 - **Computer vision**: utility-pole defect detection, with the backend API, frontend and local
-  inference pipeline, fine-tuned object-detection models and tools for reviewing results
+  inference pipeline, fine-tuned object-detection models
 
 ## Side projects
 
