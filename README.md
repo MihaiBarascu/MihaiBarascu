@@ -2,10 +2,6 @@
 
 Full Stack Developer at Roweb (Sirma Group). Building web applications and AI features.
 
-I like owning things end to end, from database to UI to deployment.
-I use AI every day, in the products I build and in how I build them.
-Currently learning Go.
-
 [LinkedIn](https://www.linkedin.com/in/mihai-barascu/) · [mihaialex_barascu@yahoo.com](mailto:mihaialex_barascu@yahoo.com)
 
 ## What I work on
