@@ -19,7 +19,7 @@ Full Stack Developer at Roweb (Sirma Group). Building web applications and AI fe
   ranking, with an embeddable chat widget where an AI assistant uses tool calling to search the
   catalog
 - **Multi-tenant inspection SaaS**: inspection and reporting workflows, interactive defect
-  marking and review, asynchronous AI integrations
+  marking and review, asynchronous AI integrations and document processing
 - **Computer vision**: utility-pole defect detection, with the backend API, frontend and local
   inference pipeline, fine-tuned object-detection models
 
