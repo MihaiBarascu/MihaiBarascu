@@ -11,7 +11,7 @@ Full Stack Developer at Roweb (Sirma Group). Building web applications and AI fe
 - **On-premise RAG assistant for a public institution**: answers from official documents with
   source citations, on local models
 - **Hotel document processing**: extracts structured data from hotel factsheets and contracts
-  with LLMs, linked to source passages, reviewed by users and exported to tour-operator systems
+  with multimodal LLMs?, linked to source passages, reviewed by users and exported to tour-operator systems
   via APIs
 - **E-commerce market analytics**: scans online stores at scale, with an MCP server so the data
   can be queried from the Claude and ChatGPT web apps
